@@ -53,7 +53,6 @@ $ catkin_make
 ## 6. Launching the robot arm
 ```
 $ roslaunch robot_arm_pkg check_motors.launch
-
 ```
 <kbd>![image](https://github.com/Rawnaa-19/ROS-arduino_robot_arm-package-installation/assets/106926557/c6c8b34a-4555-452e-a2df-2d71e6f38af0)</kbd>
 
