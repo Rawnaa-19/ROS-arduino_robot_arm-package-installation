@@ -7,13 +7,10 @@ The following steps describe how I installed ROS on Ubuntu 18.04 and launched th
 
 ## 2. Installing Ubuntu 18.04 into VirtualBox 
 <kbd>![image](https://github.com/Rawnaa-19/ROS-arduino_robot_arm-package-installation/assets/106926557/cecb437d-d74d-42c6-85b7-ac80e41a8925)</kbd>
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 <kbd>![image](https://github.com/Rawnaa-19/ROS-arduino_robot_arm-package-installation/assets/106926557/5647f1d4-8239-4cc0-b16d-a1c59ad20d97)</kbd>
 
 ## 3. Installing ROS melodic
