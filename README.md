@@ -9,6 +9,11 @@ The following steps describe how I installed ROS on Ubuntu 18.04 and launched th
 <kbd>![image](https://github.com/Rawnaa-19/ROS-arduino_robot_arm-package-installation/assets/106926557/cecb437d-d74d-42c6-85b7-ac80e41a8925)</kbd>
 
 
+
+
+
+
+
 <kbd>![image](https://github.com/Rawnaa-19/ROS-arduino_robot_arm-package-installation/assets/106926557/5647f1d4-8239-4cc0-b16d-a1c59ad20d97)</kbd>
 
 ## 3. Installing ROS melodic
@@ -53,5 +58,5 @@ $ catkin_make
 $ roslaunch robot_arm_pkg check_motors.launch
 
 ```
-</kbd>![image](https://github.com/Rawnaa-19/ROS-arduino_robot_arm-package-installation/assets/106926557/c6c8b34a-4555-452e-a2df-2d71e6f38af0)</kbd>
+<kbd>![image](https://github.com/Rawnaa-19/ROS-arduino_robot_arm-package-installation/assets/106926557/c6c8b34a-4555-452e-a2df-2d71e6f38af0)</kbd>
 
